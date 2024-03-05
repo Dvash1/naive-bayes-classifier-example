@@ -20,3 +20,10 @@ Naïve Bayes is typically great for calculating the probability of sentences bei
 In this repository, we have:
 - r8-train-stemmed.txt and r8-test-stemmed.txt, which are datasets of sentences and the catagories they belong to.
 - solution.py, that implements the classifier for the database, with high accuracy.
+
+## Dependencies
+the solution uses numpy, pandas and sklearn.
+You can install them through:
+     ```bash
+     pip install -r requirements.txt
+     ```
