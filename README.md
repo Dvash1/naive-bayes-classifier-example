@@ -24,6 +24,6 @@ In this repository, we have:
 ## Dependencies
 the solution uses numpy, pandas and sklearn.
 You can install them through:
-     ```bash
+     ```
      pip install -r requirements.txt
      ```
